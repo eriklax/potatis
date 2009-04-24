@@ -1,0 +1,28 @@
+v1.12
+
+- 2009-03-25; Erik Lax; Added support for fuzzy strings (import/export)
+- 2009-03-25; Erik Lax; Changed -c paramter to -s (--statistics) 
+
+v1.11
+
+- 2008-08-30; Erik Lax; Rearragned the source code
+
+v1.10
+
+- 2008-08-28; Erik Lax; Added --list-language parameter for scripting
+
+V1.9
+
+ - Internal Release
+
+v1.8
+
+- 2008-08-28; Erik Lax; Fixed Error Messages and Odd Behaviours
+
+v1.7
+
+- 2008-08-28; Erik Lax; Rewritten Read-State Machine
+
+v1.6 
+
+- 2008-08-27; Erik Lax; First Public Release

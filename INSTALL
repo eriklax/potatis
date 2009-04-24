@@ -1,0 +1,1 @@
+Run "cmake ." followed by "make install". potatis will be install in /usr/local/include/
