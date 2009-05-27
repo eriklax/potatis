@@ -95,6 +95,7 @@ void PoFile::Open(const string& file)
 			{
 				if (state != ID && state != ID_MORE && state != STR && state != STR_MORE)
 				{
+					delete tmpItem;
 					throw std::runtime_error("Parse Error: msgstr not followed by msgid");
 				}
 				tmpItem->SetFuzzy(language, fuzzy=="~");
@@ -105,6 +106,7 @@ void PoFile::Open(const string& file)
 			{
 				if (state != ID && state != ID_MORE && state != STR && state != STR_MORE)
 				{
+					delete tmpItem;
 					throw std::runtime_error("Parse Error: data not followed by msgid or msgstr");
 				}
 				if (state == ID || state == ID_MORE) {
