@@ -1,1 +1,1 @@
-Run "cmake ." followed by "make install". potatis will be install in /usr/local/include/
+Run "cmake ." followed by "make install". potatis will be installed in /usr/local/bin/

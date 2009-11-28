@@ -1,3 +1,8 @@
+v1.13
+
+- 2009-11-29; Erik Lax; Updated package
+- 2009-05-27; Erik Lax; Memory leak
+
 v1.12
 
 - 2009-03-25; Erik Lax; Added support for fuzzy strings (import/export)
