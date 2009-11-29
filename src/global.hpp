@@ -17,7 +17,7 @@
    Boston, MA 02111-1307, USA.
    */
 
-#define VERSION "1.12"
+#define VERSION "1.13"
 #define APPNAME "Potatis"
 #define EMAIL "erik@datahack.se"
 #define AUTHOR "Erik Lax"
